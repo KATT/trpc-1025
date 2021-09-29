@@ -1,0 +1,11 @@
+{
+  "name": "trpc-1025",
+  "packageManager": "yarn@3.0.2",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
